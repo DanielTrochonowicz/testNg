@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-07T21:26:29 CEST" name="Command line suite" finished-at="2019-10-07T21:26:29 CEST" duration-ms="108">
+    <groups>
+    </groups>
+    <test started-at="2019-10-07T21:26:29 CEST" name="Command line test" finished-at="2019-10-07T21:26:29 CEST" duration-ms="108">
+      <class name="com.boc.webapp.UserTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="setUp" finished-at="2019-10-07T21:26:29 CEST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testDate()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testDate" finished-at="2019-10-07T21:26:29 CEST" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDate -->
+        <test-method signature="testGetName()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testGetName" finished-at="2019-10-07T21:26:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetName -->
+        <test-method signature="testGetID()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testGetID" finished-at="2019-10-07T21:26:29 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetID -->
+        <test-method signature="testGetRoles()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testGetRoles" finished-at="2019-10-07T21:26:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRoles -->
+        <test-method signature="testUniqueID()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testUniqueID" finished-at="2019-10-07T21:26:29 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUniqueID -->
+        <test-method signature="testUser()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testUser" finished-at="2019-10-07T21:26:29 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUser -->
+        <test-method signature="testUserCount()[pri:0, instance:com.boc.webapp.UserTest@2667f029]" started-at="2019-10-07T21:26:29 CEST" name="testUserCount" finished-at="2019-10-07T21:26:29 CEST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUserCount -->
+      </class> <!-- com.boc.webapp.UserTest -->
+      <class name="com.boc.webapp.ResponseFactoryTest">
+        <test-method signature="testCollectAllRolesEmptyList()[pri:0, instance:com.boc.webapp.ResponseFactoryTest@67a20f67]" started-at="2019-10-07T21:26:29 CEST" name="testCollectAllRolesEmptyList" finished-at="2019-10-07T21:26:29 CEST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCollectAllRolesEmptyList -->
+        <test-method signature="testCollectAllRolesSingleUserNoRoles()[pri:0, instance:com.boc.webapp.ResponseFactoryTest@67a20f67]" started-at="2019-10-07T21:26:29 CEST" name="testCollectAllRolesSingleUserNoRoles" finished-at="2019-10-07T21:26:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCollectAllRolesSingleUserNoRoles -->
+        <test-method signature="testCollectAllRolesSingleUserSingleRole()[pri:0, instance:com.boc.webapp.ResponseFactoryTest@67a20f67]" started-at="2019-10-07T21:26:29 CEST" name="testCollectAllRolesSingleUserSingleRole" finished-at="2019-10-07T21:26:29 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCollectAllRolesSingleUserSingleRole -->
+      </class> <!-- com.boc.webapp.ResponseFactoryTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

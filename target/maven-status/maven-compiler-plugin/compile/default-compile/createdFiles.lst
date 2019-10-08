@@ -1,0 +1,5 @@
+com\boc\webapp\User.class
+com\boc\webapp\BOCServlet.class
+com\boc\webapp\ResponseFactory.class
+com\boc\webapp\Repository$Holder.class
+com\boc\webapp\Repository.class
